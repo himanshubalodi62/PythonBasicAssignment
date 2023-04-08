@@ -1,1 +1,2 @@
-# pythonlearning
+# pythonlearning 
+Python Theortical Assignments
